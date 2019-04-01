@@ -1,0 +1,26 @@
+{
+  "name": "war_fer_s_46_game_of_life",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "develop": "webpack --mode development --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartoszGorecki/WAR_FER_S_46_Game_of_life.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartoszGorecki/WAR_FER_S_46_Game_of_life/issues"
+  },
+  "homepage": "https://github.com/BartoszGorecki/WAR_FER_S_46_Game_of_life#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
